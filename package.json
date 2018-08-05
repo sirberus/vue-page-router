@@ -1,0 +1,20 @@
+{
+  "name": "vue-page-router",
+  "version": "1.0.0",
+  "description": "Nuxt-inspired route management",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"!\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vue-router"
+  ],
+  "author": "github.com/sirberus",
+  "license": "MIT",
+  "dependencies": {
+    "babel-plugin-wildcard": "^5.0.0",
+    "lodash": "^4.17.10",
+    "vue-router": "^3.0.1"
+  }
+}
