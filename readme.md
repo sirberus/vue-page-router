@@ -1,6 +1,8 @@
 # Vue Page Router
 
-Nuxt-inspired route management 
+Nuxt-inspired route management
+
+[GitHub](https://github.com/sirberus/vue-page-router) * [NPM](https://www.npmjs.com/package/vue-page-router)
 
 #### Given:
 ```
